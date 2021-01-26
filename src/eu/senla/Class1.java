@@ -1,23 +1,23 @@
 package eu.senla;
 
 public class Class1 {
-    public static byte a1;
-    public static short b1;
-    public static int c1;
-    public static long d1;
-    public static float e1;
-    public static double i1;
-    public static char f1;
-    public static boolean g1;
+    static byte a1;
+    static short b1;
+    static int c1;
+    static long d1;
+    static float e1;
+    static double i1;
+    static char f1;
+    static boolean g1;
 
-    public static Byte a2;
-    public static Short b2;
-    public static Integer c2;
-    public static Long d2;
-    public static Float e2;
-    public static Double i2;
-    public static Character f2;
-    public static Boolean g2;
+    static Byte a2;
+    static Short b2;
+    static Integer c2;
+    static Long d2;
+    static Float e2;
+    static Double i2;
+    static Character f2;
+    static Boolean g2;
 
     public static void main(String[] args) {
         byte a3;
